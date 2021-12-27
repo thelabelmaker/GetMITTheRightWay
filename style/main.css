@@ -21,7 +21,7 @@ html, body {
 h1.title {
   font-size: 64px;
   font-weight: bold;
-  color: #A31F34;
+  color: #FF6C0C;
   margin: 0;
   display: block;
   float: left; }
@@ -83,7 +83,7 @@ h1.title {
   .score-container .score-addition, .best-container .score-addition {
     position: absolute;
     right: 30px;
-    color: red;
+    color: orange;
     font-size: 25px;
     line-height: 25px;
     font-weight: bold;
@@ -108,7 +108,7 @@ p {
   line-height: 1.65; }
 
 a {
-  color: #A31F34;
+  color: #FF6C0C;
   font-weight: bold;
   text-decoration: underline;
   cursor: pointer; }
